@@ -43,16 +43,16 @@ Jupyter Notebook
 (SQL integration planned for validation in future iterations)
 
 🔹 Project Structure
-finance-credit-eda/
-│
-├── data/
-│   └── raw/
-├── notebooks/
-│   ├── 01_data_loading.ipynb
-│   └── 03_eda_visualization.ipynb
-├── sql/
-│   └── analysis_queries.sql
-└── README.md
+finance-credit-eda/   
+ │   
+├── data/   
+ │   └── raw/    
+├── notebooks/    
+ │   ├── 01_data_loading.ipynb    
+ │   └── 03_eda_visualization.ipynb    
+├── sql/    
+ │   └── analysis_queries.sql   
+ └── README.md   
 🔹 Key Findings
 
 Credit limits and financial behavior are highly skewed
